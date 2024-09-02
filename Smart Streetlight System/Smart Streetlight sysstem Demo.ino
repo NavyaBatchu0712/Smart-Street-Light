@@ -2,8 +2,8 @@
 #include <WiFiClient.h>;
 #include <ThingSpeak.h>;
 
-const char* ssid = "Chitti";
-const char* password = "chowdi211227";
+const char* ssid = " ";
+const char* password = " ";
 
 WiFiClient client;
 
